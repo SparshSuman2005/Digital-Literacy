@@ -1,0 +1,61 @@
+DIGITAL LITERACY: YOUR GUIDE TO THE ONLINE WORLD
+Created by Sparsh Kumar Suman | VIT Bhopal | AIML 2nd Year
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[SECTION 1: WHAT IS DIGITAL LITERACY?]
+
+Digital literacy means:
+→ Finding information online effectively
+→ Evaluating if sources are trustworthy  
+→ Creating content responsibly
+→ Communicating safely across platforms
+→ Protecting your privacy and data
+
+It's not just technical skills—it's critical thinking in digital spaces.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[SECTION 2: SAFE INTERNET PRACTICES FOR STUDENTS]
+
+🔒 PASSWORD SAFETY
+• Use different passwords for each account
+• Mix letters, numbers, and symbols
+• Consider a password manager
+
+🛡️ TWO-FACTOR AUTHENTICATION  
+• Always enable 2FA on banking apps
+• Use authenticator apps instead of SMS when possible
+
+⚠️ PHISHING AWARENESS
+• Check sender email addresses carefully
+• Banks never ask for OTPs or PINs
+• When in doubt, don't click
+
+🔄 REGULAR UPDATES
+• Keep your phone and laptop OS updated
+• Update apps to patch security holes
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[SECTION 3: BUILDING PROFESSIONAL PRESENCE]
+
+WHY IT MATTERS:
+Recruiters Google you before interviews. Make sure they find good things.
+
+STUDENT CHECKLIST:
+✓ Create LinkedIn profile (add your college, year, skills)
+✓ Make GitHub repository for coding projects
+✓ Remove questionable content from Instagram/Facebook
+✓ Use professional email (yourname@college.edu or Gmail)
+✓ Join relevant groups in your field
+
+REMEMBER: The internet never forgets. Post accordingly.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BOTTOM TEXT:
+"Digital literacy isn't about being perfect online—it's about being aware, safe, and intentional with every click."
+
+- Sparsh Kumar Suman
+24BAI10205 | AIML | VIT Bhopal

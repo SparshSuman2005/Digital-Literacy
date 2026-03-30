@@ -1,0 +1,9 @@
+# Task 4 Reflection: Email Etiquette
+
+Writing professional emails felt weird at first because I'm used to texting friends or using WhatsApp slang. But I drafted two emails—one asking a professor for an extension on an assignment and another applying for a summer internship. I kept them simple: clear subject lines saying exactly what the email is about, proper greetings using "Dear" instead of "Hey," short paragraphs explaining what I need, and professional sign-offs.
+
+I think the key is being direct but respectful. Like, in the professor email, I didn't make up fake excuses—I just said I need more time to do quality work. And for the internship, I mentioned specific things about the company to show I actually researched them, not just copy-pasted a template.
+
+For the reflection part, I remembered something that happened last semester. A friend of mine sent an angry email to a course coordinator because he was frustrated about exam scheduling. He used all caps, wrote "THIS IS UNFAIR" and basically accused the professor of being biased. The professor never replied, and my friend had to apologize in person later. It was super awkward and probably affected his relationship with that faculty member.
+
+What could he have done differently? First, wait a day before sending angry emails. Second, show it to a friend or senior to check the tone. Third, focus on the problem (exam timing clash) rather than attacking the person. Digital communication stays forever, so taking five minutes to cool down can save you months of embarrassment. I've started applying this rule now—even for casual messages, I read them once before sending.

@@ -1,0 +1,7 @@
+# Task 3 Reflection: Platforms
+
+I used HackerRank for the coding part because the interface felt less intimidating than CodeChef or LeetCode. I completed "Solve Me First" in Python which is literally just adding two numbers, but it helped me understand how these platforms work—the whole input/output format is specific and you have to get it exactly right or the tests fail. I also earned a Python basics badge which feels like a small win even though it's beginner level. For someone like me learning AI/ML, practicing on HackerRank helps with the programming fundamentals I need for implementing algorithms later.
+
+The Google Form was actually fun to make because I designed it thinking about my actual batchmates. I included questions about phishing emails and UPI fraud because those are real threats we face daily. I made sure to have one MCQ, one short answer, and mixed up the formats so it doesn't get boring. I can see myself actually using this to quiz friends and see what they know about digital safety.
+
+How will these help? Well, coding platforms like HackerRank are good for interview prep—tech companies often use similar platforms for screening tests. And knowing how to make Google Forms and collect responses is useful for academic surveys and research projects. Plus, as a Digital Ambassador, having a ready-made quiz means I can quickly assess what my peers need help with regarding digital literacy.
