@@ -42,7 +42,7 @@ digital-literacy-project/
 
 - **GitHub Profile:** https://github.com/SparshSuman2005
 - **LinkedIn Profile:** https://www.linkedin.com/in/sparsh-kumar-suman-50b77a359
-- **Google Form (Task 3):** [Digital Literacy Awareness Quiz](https://forms.google.com) *(Link to be added after form creation)*
+- **Google Form (Task 3):** [Digital Literacy Awareness Quiz]https://docs.google.com/forms/d/e/1FAIpQLSdtDLj14fn8pNUrNYs4R2KoQKeV8mjxHrj6_ydaiUVCBk1BsQ/viewform?usp=publish-editor
 
 ## Tasks Overview
 
